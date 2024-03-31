@@ -1,0 +1,1 @@
+#Write a Python program to check if all items in a given list of strings are equal to a given string.
